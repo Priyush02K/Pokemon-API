@@ -1,4 +1,6 @@
-# Pokemon API
+
+[# Pokemon API ](https://pokemons-api-2024.netlify.app/)
+
 
 ## Description
 This project is a simple web application that interacts with a Pokemon API to display information about different Pokemon. The app fetches data from the API and allows users to search and view details of various Pokemon.
@@ -53,6 +55,11 @@ Feel free to fork the repository and submit pull requests for any improvements.
 
 
 
+
+Priview
+![image](https://github.com/user-attachments/assets/7ac048fc-677d-49d4-b563-0daeed550490)
+![image](https://github.com/user-attachments/assets/59a18705-475b-4a0d-914a-03667a75e1dd)
+![image](https://github.com/user-attachments/assets/4767e6a8-f126-4685-9f61-2fd32696d153)
 
 
 
