@@ -1,3 +1,64 @@
+# Pokemon API
+
+## Description
+This project is a simple web application that interacts with a Pokemon API to display information about different Pokemon. The app fetches data from the API and allows users to search and view details of various Pokemon.
+
+## Working Flow
+1. Fetches data from the Pokemon API.
+2. Displays a list of Pokemon.
+3. Allows users to search for specific Pokemon.
+4. Shows details about each selected Pokemon.
+
+## Technologies Used
+- JavaScript
+- React
+- HTML/CSS
+- Pokemon API
+
+## Steps to Clone the Repo
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Priyush02K/Pokemon-API.git
+   
+2. Navigate to the project directory:
+   cd Pokemon-API
+
+3. Install dependencies:
+    npm install
+
+4. Run the application:
+npm start
+
+
+## Features
+<ul>
+  <li>User-friendly interface to search and view Pokemon.</li>
+  <li>Integration with Pokemon API for real-time data.</li>
+   <li>Responsive design</li>
+</ul>
+
+
+## Future Enhancements
+<ul>
+  <li>Add more filters for searching..</li>
+  <li>Implement pagination for easier navigation.
+</li>
+   <li>Responsive design</li>
+</ul>
+
+
+## Contributing
+Feel free to fork the repository and submit pull requests for any improvements.
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
